@@ -22,6 +22,8 @@ Then open `http://localhost:4173`.
 - Authenticated crest asset integrated as a transparent PNG
 - Multi-size favicon and Apple touch icon derived from the crest
 - Replayable 12-second Vision FC intro film with native controls and footer lightbox
+- Externalised CSS, JavaScript and former-player data layers
+- Dependency-free smoke tests under `tests/`
 - External official website CTA pointing to `https://myvisionfc.com`
 
 ## Editorial status
