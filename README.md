@@ -20,6 +20,7 @@ Then open `http://localhost:4173`.
 - Former-player search interaction
 - Accessible reduced-motion fallback
 - Authenticated crest asset integrated as a transparent PNG
+- Multi-size favicon and Apple touch icon derived from the crest
 - External official website CTA pointing to `https://myvisionfc.com`
 
 ## Editorial status
