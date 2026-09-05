@@ -29,3 +29,5 @@ The visible facts were prepared from the information supplied by the client from
 ## Asset note
 
 `assets/crest-transparent.png` was generated from the supplied low-resolution crest reference using GPT Image 2 through the authenticated OpenAI OAuth connection. It is suitable for this prototype presentation, but the club should supply or approve an official vector master before kit, embroidery or formal print production.
+
+`assets/nii-adjei-kraku-ii.jpg` is a 1200×900 venue photograph retrieved from the public Stadianity listing for Nii Adjei Kraku II Sports Complex. The website includes visible source attribution. Confirm usage rights and obtain direct permission or a club-supplied image before commercial publication.
