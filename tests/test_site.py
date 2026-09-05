@@ -26,8 +26,10 @@ class SiteSmokeTests(unittest.TestCase):
             "local-fonts.css",
             "fonts/barlow-condensed-0.ttf",
             "assets/crest-transparent.webp",
+            "assets/crest-transparent-320.webp",
             "assets/nii-adjei-kraku-ii-optimised.jpg",
             "assets/nii-adjei-kraku-ii-800.webp",
+            "assets/nii-adjei-kraku-ii-400.webp",
         ):
             self.assertTrue((ROOT / relative).is_file(), relative)
 
