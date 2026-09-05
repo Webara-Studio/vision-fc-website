@@ -22,6 +22,11 @@ class SiteSmokeTests(unittest.TestCase):
             "intro-video.mp4",
             "robots.txt",
             "sitemap.xml",
+            "vercel.json",
+            "local-fonts.css",
+            "fonts/barlow-condensed-0.ttf",
+            "assets/crest-transparent.webp",
+            "assets/nii-adjei-kraku-ii-optimised.jpg",
         ):
             self.assertTrue((ROOT / relative).is_file(), relative)
 
