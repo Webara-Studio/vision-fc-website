@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vision-fc-site.vercel.app/sitemap.xml

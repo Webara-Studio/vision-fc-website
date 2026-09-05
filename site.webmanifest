@@ -1,0 +1,13 @@
+{
+  "name": "Vision Football Club",
+  "short_name": "Vision FC",
+  "description": "Vision Football Club — a Ghanaian football club with ambition, discipline and a clear eye on the future.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3d0b63",
+  "theme_color": "#3d0b63",
+  "icons": [
+    {"src":"/assets/favicon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"/assets/favicon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
