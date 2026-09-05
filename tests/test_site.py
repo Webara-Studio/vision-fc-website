@@ -48,6 +48,11 @@ class SiteSmokeTests(unittest.TestCase):
             'href="brand-guide.pdf" download',
             'data-open-video',
             'intro-video.mp4',
+            'id="fixtures"',
+            'Fixtures<br>coming soon.',
+            'id="hospitality"',
+            'Global Transfer Partner<br>Hospitality Package.',
+            'Guided tour of the club’s facilities',
         ):
             self.assertIn(marker, self.html)
         header = self.html.split("<main", 1)[0]
